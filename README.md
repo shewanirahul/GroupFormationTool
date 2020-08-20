@@ -1,3 +1,3 @@
 # GroupFormationTool
-by Rob Hawkey, Dr. Raghav Sampangi, and Krutarth Patel
+by Rahul Shewani, Joshin Jonson, and Hirenkumar khant
 Copyright 2020
